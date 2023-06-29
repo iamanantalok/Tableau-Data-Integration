@@ -14,12 +14,18 @@ Repository Contents
 1.Datasets: Sample datasets representing sellers' geolocations and corresponding payment information. These datasets are essential for establishing the necessary relationships and creating the visualization in Tableau.
 2.Tableau Workbook: A comprehensive Tableau workbook that demonstrates how to connect the seller and payment datasets, establish the appropriate relationships, and create the bubble chart visualization. The workbook includes detailed steps, calculations, and visual design choices.
 
------
-Note
------
-We will not establish a relationship between the "olist_order_reviews_dataset" and "olist_orders_dataset" datasets.
+
+------------
+Dataset Link
+------------
+https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
 -----
 Link for Tableau worksheet
 -----
 https://public.tableau.com/views/Tableau-Relationships-Problem/Sheet1?:language=en-GB&:display_count=n&:origin=viz_share_link
+
+-----
+Note
+-----
+We will not establish a relationship between the "olist_order_reviews_dataset" and "olist_orders_dataset" datasets.
