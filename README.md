@@ -18,3 +18,8 @@ Repository Contents
 Note
 -----
 We will not establish a relationship between the "olist_order_reviews_dataset" and "olist_orders_dataset" datasets.
+
+-----
+Link for Tableau worksheet
+-----
+https://public.tableau.com/views/Tableau-Relationships-Problem/Sheet1?:language=en-GB&:display_count=n&:origin=viz_share_link
